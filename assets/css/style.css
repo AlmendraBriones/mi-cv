@@ -30,6 +30,15 @@ footer{
     text-align: center;
 }
 
+main{
+padding: 3rem;
+margin: 3rem;
+display:flex;
+flex-wrap: wrap;
+
+
+
+}
 
 
 
