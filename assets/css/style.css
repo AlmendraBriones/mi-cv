@@ -1,0 +1,35 @@
+body{
+    margin: 3rem;
+    background-color: rgb(245, 241, 236);
+    border: 1rem;
+    font-family: "Roboto",sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+h1{
+    text-align: center;
+    padding: 3rem;
+    background-color: rgb(234, 228, 233);
+}
+
+.foto{
+    padding: 3rem;
+    text-align: center; 
+}
+.yo{
+    text-align: center;
+    border: 2rem;
+}
+.Experiencia{
+    text-align: center;
+    border: 2rem;
+}
+footer{
+    padding: 2rem;
+    background-color: rgb(234, 228, 233);
+    text-align: center;
+}
+
+
+
+
