@@ -1,0 +1,26 @@
+
+body{
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    
+}
+
+
+.card{
+     margin: 5%;
+    padding: 1rem;
+    text-align: justify;
+}
+
+
+
+.form{
+    margin: 10%;
+  padding: 5rem;
+  text-align: center;
+
+}
+footer{
+    text-align: center;
+}

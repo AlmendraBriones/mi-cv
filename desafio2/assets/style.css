@@ -1,0 +1,41 @@
+body {
+    background-color: plum;
+    margin: 0;
+    width: 100%;
+}
+
+table{
+    width: 100%;
+    border: 1px solid #ccc;
+}
+td {
+    text-align: center;
+    width: 50%;
+    border: 1px solid #ccc;
+}
+
+.titulo{
+    text-align: center;
+    padding: auto;
+    display: block;
+    background-image: url("./img/fondo.png"); 
+    background-repeat: no-repeat;
+}
+.titulo img{
+    width: 100%;
+}
+
+.imagen_titulo{
+    width: 20%;
+}
+
+footer {
+    height: 2rem;
+    border: 5px;
+    text-align: center;
+}
+
+
+
+
+

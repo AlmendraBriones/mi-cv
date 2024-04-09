@@ -1,0 +1,87 @@
+body {
+    background-image: url(img/fondo.jpg);
+    border-left: 20px;
+    border-right: 20px;
+    width: 100%;
+}
+.titulo{
+    font-size: 35px;
+    text-align: center;
+    padding: auto;
+    display: block;
+    background-color:black;
+    color: #ccc;
+
+}
+.img1 {
+    display: flex;
+    justify-content: center;
+    margin: 3%;
+}
+
+
+section {
+    font-size: 25px;
+    display: flex;
+    width: 100%;   
+}
+
+.section_img img {
+    width: 100%;
+    text-align: cente;
+    max-height: 200px;
+    
+}
+
+.section_img a:hover{
+    background-color: red;
+    
+    
+}
+
+
+
+.border_img {
+    padding: 5px;
+}
+.texto1{
+    padding: 3rem;
+    font-size: 25px;
+    text-align: center;
+    color: #020006;
+    
+}
+.texto_caracteristicas{
+    padding: 0;
+    width: 100%;                
+    text-align: center;
+    font-size: 30px;
+
+}
+.contenido_foto{
+    width: 100%;
+}
+.full_titulo{
+    text-align: center;
+    width: 100%;
+    font-weight: bold;
+}
+.section_características{
+    background-color: black;
+    color: #ccc;
+    text-align: center;
+    width: 100%;
+}
+
+
+footer {
+    color: #ccc;
+    font-size: 30px;
+    width: 100%;
+    text-align: center;
+}
+
+
+
+
+
